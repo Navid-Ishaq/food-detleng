@@ -117,7 +117,7 @@ font-weight:700;
 line-height:1.2;
 ">
 
-🤖 Agents DeTLeng
+🤖 Food DeTLeng
 
 </div>
 
@@ -128,7 +128,7 @@ margin-top:5px;
 letter-spacing:.3px;
 ">
 
-Your Intelligent AI Assistant
+Your Food Ordering Assistant
 
 </div>
 
@@ -177,11 +177,11 @@ Thank you for visiting
 
 <br><br>
 
-🚀 Our AI Assistant is currently under development.
+🚀 Our AI Ordering Assistant is currently under development.
 
 <br><br>
 
-Very soon you'll be able to chat with us about:
+Very soon you'll be able to place your order directly through our AI Assistant.
 
 </p>
 
@@ -191,17 +191,17 @@ line-height:2;
 color:#374151;
 ">
 
-<li>🤖 AI Agents</li>
+<li>🍔 Browse Digital Menu</li>
 
-<li>⚙ Business Automation</li>
+<li>🤖 AI Order Assistant</li>
 
-<li>📊 Data Engineering</li>
+<li>📱 Direct WhatsApp Ordering</li>
 
-<li>🔄 ETL Pipelines</li>
+<li>🖨 Kitchen Printer Integration</li>
 
-<li>☁ Cloud Solutions</li>
+<li>🚚 Delivery & Pickup Orders</li>
 
-<li>💡 AI Consulting</li>
+<li>💳 Online Payment Support</li>
 
 </ul>
 
@@ -217,16 +217,17 @@ line-height:1.7;
 border:1px solid #bfdbfe;
 ">
 
-🚀 <strong>AI Assistant Launching Soon</strong>
+🚀 <strong>Food DeTLeng AI Assistant Coming Soon</strong>
 
 <br><br>
 
-We are building an intelligent AI assistant to help you with
-AI Agents, Business Automation, Data Engineering and Cloud Solutions.
+Our AI Assistant will help customers browse the menu, customize their meals, place orders, and send complete order details directly to your restaurant.
 
 <br><br>
 
-✨ Stay tuned — exciting features are coming very soon.
+✨ Smart Ordering • Direct WhatsApp • Kitchen Printer • Faster Service
+
+</div>
 
 </div>
 
