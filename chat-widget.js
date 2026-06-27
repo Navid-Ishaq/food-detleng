@@ -161,7 +161,8 @@ color:#111827;
 margin-bottom:12px;
 ">
 
-👋 Hello!
+🍔 Welcome to Food DeTLeng AI
+Your Smart Ordering Assistant
 
 </div>
 
@@ -177,11 +178,11 @@ Thank you for visiting
 
 <br><br>
 
-🚀 Our AI Ordering Assistant is currently under development.
+🚀 Our Smart AI Ordering Assistant is currently under development.
 
 <br><br>
 
-Very soon you'll be able to place your order directly through our AI Assistant.
+Very soon your customers will be able to browse the menu, customize their meals and place orders directly through our AI Assistant.
 
 </p>
 
@@ -191,15 +192,15 @@ line-height:2;
 color:#374151;
 ">
 
-<li>🍔 Browse Digital Menu</li>
+<li>🍽 Browse Digital Menu</li>
 
-<li>🤖 AI Order Assistant</li>
+<li>🌯 Select Menu & Extras</li>
+
+<li>🤖 Smart AI Order Assistant</li>
 
 <li>📱 Direct WhatsApp Ordering</li>
 
 <li>🖨 Kitchen Printer Integration</li>
-
-<li>🚚 Delivery & Pickup Orders</li>
 
 <li>💳 Online Payment Support</li>
 
@@ -213,19 +214,19 @@ border-radius:12px;
 text-align:center;
 font-weight:700;
 color:#2563eb;
-line-height:1.7;
+line-height:1.8;
 border:1px solid #bfdbfe;
 ">
 
-🚀 <strong>Food DeTLeng AI Assistant Coming Soon</strong>
+🚀 <strong>Food DeTLeng AI Assistant - Coming Soon</strong>
 
 <br><br>
 
-Our AI Assistant will help customers browse the menu, customize their meals, place orders, and send complete order details directly to your restaurant.
+Customers will simply choose a menu, select drinks and extras, confirm their order and send it directly to your restaurant.
 
 <br><br>
 
-✨ Smart Ordering • Direct WhatsApp • Kitchen Printer • Faster Service
+✨ Digital Menu • AI Ordering • Direct WhatsApp • Kitchen Printer
 
 </div>
 
